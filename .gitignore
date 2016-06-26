@@ -1,0 +1,9 @@
+.gitignore
+[Dd]ebug/*
+*.bak
+*.eco
+*.log
+*.err
+*.txt
+*.net
+STM8S_StdPeriph_Lib_V2.1.0/*
